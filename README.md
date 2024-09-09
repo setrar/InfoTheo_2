@@ -40,7 +40,7 @@ allowed.
 
 The basic structure of the course is as follows. First it will involve a basic study of various
 
-* Information Theoretic Metrics, that include:
+- [ ]  Information Theoretic Metrics, that include:
  - Channel Capacity
  - Degrees of Freedom
  - e-Outage Capacity
