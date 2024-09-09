@@ -48,25 +48,25 @@ The basic structure of the course is as follows. First it will involve a basic s
 
 Then the course will place emphasis on communication-related topics, by studying various
 
-* Classical Channel Settings, such as:
- - Multiple-Access Channels (Various performance regions)
- - Class of Broadcast Channels
- - Various Relay Channels (Capacity and outage results).
+- Classical Channel Settings, such as:
+  - Multiple-Access Channels (Various performance regions)
+  - Class of Broadcast Channels
+  - Various Relay Channels (Capacity and outage results).
 
 Making the transition to data science, where indeed the nature of data is of crucial importance, the course will then involve the study of
 various
 
-* Classical Source Settings, such as:
- - The Slepian-Wolf approach
- - Lossy Source Coding
- - Semantic considerations.
+- Classical Source Settings, such as:
+  - The Slepian-Wolf approach
+  - Lossy Source Coding
+  - Semantic considerations.
 
 Subsequently the course will jointly explore communications and distributed computing by studying
 
-* Advanced Network Information Theory, focusing on topics such as:
- - Network Coding
- - Index Coding and Caching
- - Coded Distributed Computing.
+- Advanced Network Information Theory, focusing on topics such as:
+  - Network Coding
+  - Index Coding and Caching
+  - Coded Distributed Computing.
 
 Finally, motivated by their sheer technological impact, the course will explore, time permitting, topics that involve various
 
