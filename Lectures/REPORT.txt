@@ -1,0 +1,16 @@
+# Information Theory CheatSheet
+
+* Capacity Regions  
+* Markov Chains
+* Maximization of entropy  
+* Capacities of different channels
+* Calculate entropy of channels
+* Index coding
+* Network coding
+* Coded caching  
+* Gambling (after 10 goals)  
+* MAC or broadcast channel (optimal schemes)  
+* EAP (Picking dual subset of numbers)  
+* Coded Map Reduce
+
+References: Elements of Information Theory 2nd Edition by Thomas M. Cover, Joy A. Thomas
